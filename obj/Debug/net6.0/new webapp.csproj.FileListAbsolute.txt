@@ -1,0 +1,26 @@
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\new webapp.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\new webapp.exe
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\new webapp.deps.json
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\new webapp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\new webapp.dll
+C:\Users\Lenovo\source\repos\new webapp\new webapp\bin\Debug\net6.0\new webapp.pdb
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\scopedcss\bundle\new webapp.styles.css
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\scopedcss\projectbundle\new webapp.bundle.scp.css
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.dll
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\refint\new webapp.dll
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.pdb
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\new webapp.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\new webapp\new webapp\obj\Debug\net6.0\ref\new webapp.dll
